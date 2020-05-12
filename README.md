@@ -13,9 +13,9 @@ War Sans, font packs for _World of Warcraft_ and _WoW Classic_ that support all 
 
 ## Download the Fonts
 
-[Latest release at GitHub](https://github.com/nowar-fonts/War-Sans-TT/releases)
+[Latest release at GitHub](https://github.com/nowar-fonts/War-Sans-CFF/releases)
 
-Mirrors: [Gitee (Release Repo)](https://gitee.com/nowar-fonts/War-Sans-TT)
+Mirrors: [Gitee (Release Repo)](https://gitee.com/nowar-fonts/War-Sans-CFF)
 
 War Sans is shipped in 4 weights and 7 regional variants, with several features.
 
